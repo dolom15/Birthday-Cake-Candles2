@@ -1,1 +1,1 @@
-# Birthday-Cake-Candles2
+# Birthday-Cake-Candles2 This code finds the tallest candles in a list by first determining the maximum height and then counting how many candles have that height. It returns the count, representing how many candles can be blown out.
